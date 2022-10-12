@@ -1,0 +1,46 @@
+.nav{
+	background-color: #ffeba6;
+	overflow: hidden;
+}
+
+.nav img{
+	float: right;
+	height: 35px;
+	width: auto;
+	padding: 6px 10px;
+}
+
+.nav a{
+	float: left;
+	color: #531726;
+	text-align: center;
+	padding:  14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+.nav a:hover{
+	background-color: #c0996c;
+	color: #ffeba6;
+}
+
+.nav a.active {
+  background-color: #531726;
+  color: #ffeba6;
+}
+
+h1{
+	color: #531726;
+}
+
+h2{
+	color: #531726;
+}
+
+body{
+	font-family: Verdana;
+}
+
+.gallery img{
+	padding: 10px 25px;
+}
